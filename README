@@ -1,0 +1,19 @@
+This is a tic tac toe game.
+The game is wrriten in c# with the winforms platform and .net 4.6.1 framework.
+The game includes a start page and a game form.
+
+Start Page: 
+    Includes 4 buttons to start a game with 2 different modes:
+        First mode- Against the Pc:
+            3 first buttons directs to a game with the PC on 3 different difficulties:
+                Easy, Intermidiate/Medium, Hard.
+        Second mode- PVP (player vs. player):
+        The 4th button indicates the game would be against another player on the same PC.
+        
+Game Form:
+    Includes the game grid (a 3x3 grid for Xs and Os), a lable indicating who has the turn now and whether the PC is "thinking" about the next move.
+    Also includes a Lable which indicating in which state the game finished and a clear button to clear the grid and start a new game at the same mode and difficulity.
+    The background color changes in every mode and difficulity.
+    
+To play the game all you need to do is to start the application and choose the mode and difficulity you want to play.
+(You of course needs to know how to play tic tac toe).
