@@ -1,0 +1,11 @@
+C:\Users\Amit\source\repos\tiktactoe\tiktactoe\bin\Debug\tiktactoe.exe.config
+C:\Users\Amit\source\repos\tiktactoe\tiktactoe\bin\Debug\tiktactoe.exe
+C:\Users\Amit\source\repos\tiktactoe\tiktactoe\bin\Debug\tiktactoe.pdb
+C:\Users\Amit\source\repos\tiktactoe\tiktactoe\obj\Debug\tiktactoe.csprojAssemblyReference.cache
+C:\Users\Amit\source\repos\tiktactoe\tiktactoe\obj\Debug\tiktactoe.GameForm.resources
+C:\Users\Amit\source\repos\tiktactoe\tiktactoe\obj\Debug\tiktactoe.Properties.Resources.resources
+C:\Users\Amit\source\repos\tiktactoe\tiktactoe\obj\Debug\tiktactoe.csproj.GenerateResource.cache
+C:\Users\Amit\source\repos\tiktactoe\tiktactoe\obj\Debug\tiktactoe.csproj.CoreCompileInputs.cache
+C:\Users\Amit\source\repos\tiktactoe\tiktactoe\obj\Debug\tiktactoe.exe
+C:\Users\Amit\source\repos\tiktactoe\tiktactoe\obj\Debug\tiktactoe.pdb
+C:\Users\Amit\source\repos\tiktactoe\tiktactoe\obj\Debug\tiktactoe.MainPage.resources
